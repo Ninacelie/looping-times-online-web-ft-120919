@@ -5,5 +5,4 @@ def using_times
   if using_times == 7
     break
   end
-
 end
